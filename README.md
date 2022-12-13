@@ -1,3 +1,3 @@
 # Learning-Diaries
-learning Journal
-#(13/12//2022)
+learning Journal 
+#13th Dec 2022
