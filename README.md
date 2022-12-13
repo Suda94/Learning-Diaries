@@ -5,4 +5,6 @@ learning Journal
 <P>learning log:
 <br>- today learning will be to go back to revision, on leaning javascripts learning Arrays. 
 <br>- learning to do array of push, shift and unshift.
+<br>- learning to work with Arrays. 
+<br>- 
 </P>
