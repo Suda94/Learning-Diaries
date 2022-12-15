@@ -12,4 +12,5 @@ udemy learning Journal
 <p>learning log:
 <br>- understanding objects. 
 <br>-Dots vs bracket notations.
-<br>-Objects methods. 
+<br>-Objects methods.
+<br>-Coding Challenge #3.
