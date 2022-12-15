@@ -10,3 +10,5 @@ udemy learning Journal
 <h2> 14th Dec 2022</h2>
 <p>learning log:
 <br>- understanding objects. 
+-Dots vs bracket notations.
+- 
