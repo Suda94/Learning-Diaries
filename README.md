@@ -14,3 +14,8 @@ udemy learning Journal
 <br>-Dots vs bracket notations.
 <br>-Objects methods.
 <br>-Coding Challenge #3.
+<h2> 16th Dec 2022</h2>
+<br>- iteration for Loop. 
+<br>-Looping Arrays, Breaking and Continuing.
+<br>-Looping Backwards and Loops in Loops.
+<br>-The while Loop.
