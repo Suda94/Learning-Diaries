@@ -20,4 +20,4 @@ udemy learning Journal
 <br>-Looping Backwards and Loops in Loops.
 <br>-The while Loop.
 <h2> 22th Dec 2022</h2>
-<p> -learning diaries for update on the  learning project to build a calculator, with adding the function to display using case and break method and, it a bit structured  way of using "if else method" method on the process to created the calcuation function which will take digit and integer to and added them up. alternatively this can be replace with loop to make code shorter. However, for the practical purpose of learning it is use conduct revision on javascripts methods.  </p>
+<p>- Learning diaries for update on the  learning project to build a calculator, with adding the function to display using case and break method and, it a bit structured  way of using "if else method" method on the process to created the calcuation function which will take digit and integer to and added them up. alternatively this can be replace with loop to make code shorter. However, for the practical purpose of learning it is use conduct revision on javascripts methods.  </p>
