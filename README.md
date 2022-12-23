@@ -21,4 +21,6 @@ udemy learning Journal
 <br>-The while Loop.
 <h2> 22th Dec 2022</h2>
 <p>- Learning diaries for update on the  learning project to build a calculator, with adding the function to display using case and break method and, it a bit structured  way of using "if else method" method on the process to created the calcuation function which will take digit and integer to and added them up. alternatively this can be replace with loop to make code shorter. However, for the practical purpose of learning it is use conduct revision on javascripts methods.  </p>
-<h2> 22th Dec 2022</h2>
+
+<h2> 23th Dec 2022</h2>
+- learning log normal update on understanding the fundmental of website designs and, how different frameworks work to provide better intergartion with programming    structure for user that are more adjusted to these programme trying to understand the basics of it. trying to understand to understand different inbuilt function that are incoperate within Javascripts.   
