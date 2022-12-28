@@ -24,3 +24,6 @@ udemy learning Journal
 
 <h2> 23th Dec 2022</h2>
 - learning log normal update on understanding the fundmental of website designs and, how different frameworks work to provide better intergartion with programming    structure for user that are more adjusted to these programme trying to understand the basics of it. trying to understand to understand different inbuilt function that are incoperate within Javascripts.   
+<h2> 23th Dec 2022</h2>
+- learning the object orinatetions.
+- calling objects and setting up arrays within objects. 
