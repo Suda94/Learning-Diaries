@@ -28,3 +28,6 @@ udemy learning Journal
 - learning the object orinatetions.
 <br>- calling objects and setting up arrays within objects. 
 <h2> working on the product landing page(18/01/23)</h2>
+- creating an product landing page using the basic of HTML and CSS and javascript, ensuring it meet the critera set up.
+- have a single product landing page.
+- how customer will be interacting when buying or purchasing the product when they intract with the site. 
