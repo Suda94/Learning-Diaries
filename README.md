@@ -27,3 +27,4 @@ udemy learning Journal
 <h2> 23th Dec 2022</h2>
 - learning the object orinatetions.
 <br>- calling objects and setting up arrays within objects. 
+<h2> working on the product landing page(18/01/23)</h2>
