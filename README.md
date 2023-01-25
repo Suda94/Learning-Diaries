@@ -30,4 +30,9 @@ udemy learning Journal
 <h2> working on the product landing page(18/01/23)</h2>
 - creating an product landing page using the basic of HTML and CSS and javascript, ensuring it meet the critera set up.
 <br>- have a single product landing page.
-<br>- how customer will be interacting when buying or purchasing the product when they intract with the site. 
+<br>- how customer will be interacting when buying or purchasing the product when they intract with the site.
+<br><h2> issues with the current projects. </h2>
+<br>- responsiveness.
+<br>- adding scripts for the nav bar and pop-up bar.
+<br> working on the information.
+<br>- add video to show the product info. 
