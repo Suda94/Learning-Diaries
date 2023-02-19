@@ -35,4 +35,6 @@ udemy learning Journal
 <br>- responsiveness.
 <br>- adding scripts for the nav bar and pop-up bar.
 <br> working on the information.
-<br>- add video to show the product info. 
+<br>- add video to show the product info.
+#19/02/2023.
+starting to learn the basic again as knowledge testing myself did not go as planned, need to get better at explaining the simple code and understanding what it does<br> should be next priority.
